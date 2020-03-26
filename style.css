@@ -20,7 +20,13 @@ article{
 img{
 width:100%;
 max-width:100%;
+border-radius: 50%
 }
+.tagline{
+
+}
+
+
 h2{
 	font-family: 'Yantramanav', sans-serif;
 	font-size: 24px
