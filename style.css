@@ -11,10 +11,21 @@ width: 90%;
 height: 100%;
 margin: 0 auto;
 padding: 12px;
-background: rgba(255,0,0,9);
+background:rgba(255,0,0,.9);
 
 }
-article{
+
+#collections{
+	width: 100%;
+	height: 100%;
+}
+
+#designs{
+	
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+	
 
 }
 img{
@@ -26,6 +37,11 @@ border-radius: 50%
 
 }
 
+h1{
+font-family: 'Yantramanav', sans-serif;
+text-align: center;
+
+}
 
 h2{
 	font-family: 'Yantramanav', sans-serif;
@@ -37,4 +53,15 @@ p{
 	 font-family: 'Work Sans', sans-serif;
 	font-size: 12px
 	
+}
+
+header{
+	background: rgba(155,155,255,.9);
+width: 90%;
+
+}
+
+footer{
+font-family: 'Yantramanav', sans-serif;
+
 }
