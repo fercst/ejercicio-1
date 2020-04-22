@@ -22,10 +22,14 @@ padding: 12px;
 
 #designs{
 	
-	width: 28%;
+	width: 30%;
 	height: 100%;
 	display: inline-block;
 	background: rgba(255,255,255,.8);
+	margin: 12px;
+	padding: 12px;
+	
+
 	
 
 }
